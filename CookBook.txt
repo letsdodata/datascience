@@ -1,0 +1,12 @@
+x_train, y_train, subject_train, x_test, y_test, subject_test, features, activityLabels - those variables inherit their names from the
+general description of the dataset.
+
+all_train - the merged train dataset
+all_test - the merged test data set
+all_train_test - merged train and test data sets
+
+select_train_test - selected std and mean values 
+
+withnames_train_test - selected std and mean values with activity labels
+
+final_dataset - independent tidy data set with the average of each variable for each activity and each subject.
